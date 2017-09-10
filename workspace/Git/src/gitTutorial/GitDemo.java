@@ -10,6 +10,7 @@ public class GitDemo {
 		private static void studyGit(){
 			System.out.println("this is the first tutorial of GIT!!");
 			System.out.println("It is a video tutorial!!");
+			System.out.println("The first change!!");
 		}
 	}
 
